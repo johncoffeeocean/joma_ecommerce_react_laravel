@@ -1,8 +1,8 @@
 
 # Ecommerce Inventory Management System Development for JumaShop
-https://jumashop.com
+https://jomashop.com
 
-project link: https://github.com/johncoffeeocean/juma_ecommerce_react_laravel
+project link: https://github.com/johncoffeeocean/joma_ecommerce_react_laravel
 
 # Skill
 E-commerce, Shopping-cart, React, PHP, Laravel
