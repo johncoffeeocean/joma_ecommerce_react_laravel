@@ -1,23 +1,18 @@
-<p align="center"><a target="_blank"><img src="https://raw.githubusercontent.com/avored/framework/main/logo.svg" width="400"></a></p>
 
-# Ecommerce Inventory Management System Development for AvoRed
+# Ecommerce Inventory Management System Development for JumaShop
+https://jumashop.com
 
-##### Backend APP setup
+project link: https://github.com/johncoffeeocean/juma_ecommerce_react_laravel
 
-First thing first we will install laravel backend api service. First thing first we will install the laravel app.
+# Skill
+E-commerce, Shopping-cart, React, PHP, Laravel
 
-    composer create-project laravel/laravel avored-backend
-    cd avored-backend
-    composer require avored/framework
-    composer require avored/dummy-data
-    composer require avored/cash-on-delivery
-    composer require avored/pickup
+# Challenge
+•	It had compatibility issues with the newer Windows versions, causing all sorts of bugs.
+•	Moreover, supporting such a system was a nightmare - the support specialists had to access the customer’s desktop remotely, which was often impossible for security reasons.
 
-Set up your .env values and CORS
-
-##### Frontend APP Setup
-
-    git clone https://github.com/johncoffeeocean/avored_laravel_react
-    cd avored-frontend
-    npm install
-    npm run serve
+# Solutions: 
+•	Supply management. Creation/tracking of orders to multiple vendors 
+•	S2K ERP Integration. Allows to automatically update item availability and prices so that the users always have the latest information       on hand
+•	E-commerce shopping cart development. Creating, editing, updating, deleting users and assigning them roles and access rights
+•	Reporting. Order and inventory reports that can be exported as .xls files
